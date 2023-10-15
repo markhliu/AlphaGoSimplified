@@ -72,12 +72,6 @@ def ttt_think2(env):
 
 
 def ttt_think3(env):
-    # if there is only one move, don't search
-    if len(env.validinputs)==1:
-        return env.validinputs[0]
-    # if middle cell is open, take it
-    if 5 in env.validinputs:
-        return 5
     # iterate through all possible next moves
     for m in env.validinputs:
         # make a hypothetical move
