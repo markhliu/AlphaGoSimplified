@@ -1,7 +1,7 @@
 from copy import deepcopy
 from random import choice
 
-def minimax(env):
+def MiniMax(env):
     # create a list to store winning moves
     wins=[]
     # iterate through all possible next moves
