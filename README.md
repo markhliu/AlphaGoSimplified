@@ -1,6 +1,6 @@
 # AlphaGo Simplified: Ruled-Based A.I. and Deep Learning in Everyday Games
 
-<b>The whole is greater than the sum of its parts.</b> -- Aristotle
+<i><b>The whole is greater than the sum of its parts.</b> -- Aristotle</i>
 
 
 May 11, 1997, was a watershed moment in the history of artificial intelligence (AI): the IBM supercomputer Chess engine, Deep Blue, beat the world Chess champion, Garry Kasparov. It was the first time a machine had triumphed over a human player in a Chess tournament. The news garnered much media attention. But here's the twist: Deep Blue was no machine learning (ML) marvel; it was powered by traditional rule-based AI, a far cry from the modern AI we know today.
