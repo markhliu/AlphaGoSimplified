@@ -3,6 +3,8 @@
 <i><b>The whole is greater than the sum of its parts.</b> -- Aristotle</i>
 <hr width="100%">
 
+<img src="https://gattonweb.uky.edu/faculty/lium/go.jpg">
+
 May 11, 1997, was a watershed moment in the history of artificial intelligence (AI): the IBM supercomputer Chess engine, Deep Blue, beat the world Chess champion, Garry Kasparov. It was the first time a machine had triumphed over a human player in a Chess tournament. The news garnered much media attention. But here's the twist: Deep Blue was no machine learning (ML) marvel; it was powered by traditional rule-based AI, a far cry from the modern AI we know today.
 
 Fast forward 19 years to the electrifying showdown of 2016, where Google DeepMind's AlphaGo took on Go champion Lee Sedol. Once again, AI seized the spotlight, creating a frenzy in the media. But this time, it was a new kind of AI, driven by the incredible force of ML, particularly deep reinforcement learning, that captured the world's imagination. The strategies it employed were a game-changer, quite literally. But that's not all! The real secret to AlphaGo’s success is the fact that it merged deep reinforcement learning with rule-based AI such as Monte Carlo Tree Search (MCTS) to supercharge the game strategies (the whole is indeed greater than the sum of its parts in this case).
